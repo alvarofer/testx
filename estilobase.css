@@ -1,0 +1,40 @@
+body {
+    background-color: #808080;}
+h1 {
+	color: black;
+	text-align: center;
+}
+p {
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+
+a.uno:link, a.uno:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 18px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+	border: 3px solid black;
+}
+
+
+a.uno:hover, a.uno:active {
+    background-color: #b34d4d;
+}
+
+a.dos:link, a.dos:visited {
+    background-color: #0000FF;
+    color: white;
+    padding: 18px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+	border: 3px solid black;
+}
+
+
+a.dos:hover, a.dos:active {
+    background-color: 	#5353ac;
+}
